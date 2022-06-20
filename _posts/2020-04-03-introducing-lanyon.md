@@ -9,7 +9,7 @@ img {
 </style>
 <img src="public\DSC_0075.jpeg" alt="Suryaa">
 <p class="message">
-  ^ Thats's me next to a tree
+  ^ That's me next to a tree
 </p>
 ## <b>Life Story:</b>
 
