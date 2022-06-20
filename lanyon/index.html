@@ -1,0 +1,22 @@
+---
+layout: default
+title: Home
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      
+      {%if post.title == "Hey, I'm Suryaa."%} {{ post.title }} {%endif%}
+      
+    </h1>
+
+    
+
+    {%if post.title == "Hey, I'm Suryaa."%}{{ post.content }}{%endif%}
+  </div>
+  {% endfor %}
+</div>
+
+
