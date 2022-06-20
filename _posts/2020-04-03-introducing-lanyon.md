@@ -25,6 +25,6 @@ Um, I'm a <a href="https://www.youtube.com/watch?v=zIwh0njInPk&ab_channel=Ball">
 ## <b>Some Goals:</b>
 * Learn C++ fundamentals this summer &#9989;
 * Make some meaningful contributions at internships &#9989;
-* Spam <a href="https://www.linkedin.com/in/suryaa-rajinikanth/"> LinkedIn connections &#128200;</a>
+* Run up the <a href="https://www.linkedin.com/in/suryaa-rajinikanth/"> LinkedIn connections &#128200;</a>
 * Pray the <b>Celtics win a chip &#127808;</b>
 
