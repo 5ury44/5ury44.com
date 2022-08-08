@@ -18,7 +18,7 @@ Um, I'm a <a href="https://www.youtube.com/watch?v=zIwh0njInPk&ab_channel=Ball">
 
 ## <b>What I'm Doing Now:</b>
 * Pursuing a Bachelor's Degree in CS from the <b> University of Maryland &#128034;</b>
-* Creating Software for <b>Tensordock</b> as a Full-Stack Developer
+* Creating Software for <b>Tensordock</b> as a Marketplace Product Manager
 * Interning at a startup company (I can't tell you much about this yet)
 * Working on a few <b>side projects</b>
 
