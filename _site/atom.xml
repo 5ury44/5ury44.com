@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Suryaa Rajinikanth</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2022-06-20T17:22:34-04:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://5ury44.github.io//atom.xml" rel="self"/>
+ <link href="https://5ury44.github.io//"/>
+ <updated>2022-08-09T13:11:03-04:00</updated>
+ <id>https://5ury44.github.io/</id>
  <author>
    <name>Suryaa Rajinikanth</name>
    <email>markdotto@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Hey, I'm Suryaa.</title>
-   <link href="http://localhost:4000/2020/04/03/introducing-lanyon/"/>
+   <link href="https://5ury44.github.io//2020/04/03/introducing-lanyon/"/>
    <updated>2020-04-03T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2020/04/03/introducing-lanyon</id>
+   <id>https://5ury44.github.io//2020/04/03/introducing-lanyon</id>
    <content type="html">&lt;style&gt;
 img {
   border-radius: 5%;
@@ -25,7 +25,7 @@ img {
 
 &lt;p&gt;&lt;img src=&quot;public\DSC_0075.jpeg&quot; alt=&quot;Suryaa&quot; /&gt;&lt;/p&gt;
 &lt;p class=&quot;message&quot;&gt;
-  ^ Thats&apos;s me next to a tree
+  ^ That&apos;s me next to a tree
 &lt;/p&gt;
 &lt;h2 id=&quot;life-story&quot;&gt;&lt;b&gt;Life Story:&lt;/b&gt;&lt;/h2&gt;
 
@@ -34,7 +34,7 @@ img {
 &lt;h2 id=&quot;what-im-doing-now&quot;&gt;&lt;b&gt;What I’m Doing Now:&lt;/b&gt;&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Pursuing a Bachelor’s Degree in CS from the &lt;b&gt; University of Maryland 🐢&lt;/b&gt;&lt;/li&gt;
-  &lt;li&gt;Creating Software for &lt;b&gt;Tensordock&lt;/b&gt; as a Full-Stack Developer&lt;/li&gt;
+  &lt;li&gt;Creating Software for &lt;b&gt;Tensordock&lt;/b&gt; as a Marketplace Product Manager&lt;/li&gt;
   &lt;li&gt;Interning at a startup company (I can’t tell you much about this yet)&lt;/li&gt;
   &lt;li&gt;Working on a few &lt;b&gt;side projects&lt;/b&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -43,7 +43,7 @@ img {
 &lt;ul&gt;
   &lt;li&gt;Learn C++ fundamentals this summer ✅&lt;/li&gt;
   &lt;li&gt;Make some meaningful contributions at internships ✅&lt;/li&gt;
-  &lt;li&gt;Spam &lt;a href=&quot;https://www.linkedin.com/in/suryaa-rajinikanth/&quot;&gt; LinkedIn connections 📈&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Run up the &lt;a href=&quot;https://www.linkedin.com/in/suryaa-rajinikanth/&quot;&gt; LinkedIn connections 📈&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Pray the &lt;b&gt;Celtics win a chip 🍀&lt;/b&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -52,9 +52,9 @@ img {
  
  <entry>
    <title>Projects</title>
-   <link href="http://localhost:4000/2020/04/03/Portfolio/"/>
+   <link href="https://5ury44.github.io//2020/04/03/Portfolio/"/>
    <updated>2020-04-03T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2020/04/03/Portfolio</id>
+   <id>https://5ury44.github.io//2020/04/03/Portfolio</id>
    <content type="html">&lt;p&gt;When I get time I’ll throw em in here.&lt;/p&gt;
 
 </content>
