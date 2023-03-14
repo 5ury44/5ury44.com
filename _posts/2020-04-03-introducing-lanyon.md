@@ -7,7 +7,9 @@ img {
   border-radius: 5%;
 }
 </style>
-<img src="public\IMG_9259.png" alt="Suryaa">
+<p align="center">
+  <img src="public\IMG_9259.png" width="80%">
+</p>
 <p class="message">
   ^ That's me in a train
 </p>

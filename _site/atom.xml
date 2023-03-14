@@ -4,7 +4,7 @@
  <title>Suryaa Rajinikanth</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-03-14T12:59:33-04:00</updated>
+ <updated>2023-03-14T18:09:30-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Suryaa Rajinikanth</name>
@@ -23,7 +23,9 @@ img {
 }
 &lt;/style&gt;
 
-&lt;p&gt;&lt;img src=&quot;public\IMG_9259.png&quot; alt=&quot;Suryaa&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;public\IMG_9259.png&quot; width=&quot;80%&quot; /&gt;
+&lt;/p&gt;
 &lt;p class=&quot;message&quot;&gt;
   ^ That&apos;s me in a train
 &lt;/p&gt;
