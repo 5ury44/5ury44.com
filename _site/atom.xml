@@ -4,7 +4,7 @@
  <title>Suryaa Rajinikanth</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-03-14T18:09:30-04:00</updated>
+ <updated>2023-03-15T00:36:32-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Suryaa Rajinikanth</name>
@@ -57,7 +57,40 @@ img {
    <link href="http://localhost:4000/2020/04/03/Portfolio/"/>
    <updated>2020-04-03T00:00:00-04:00</updated>
    <id>http://localhost:4000/2020/04/03/Portfolio</id>
-   <content type="html">&lt;p&gt;When I get time I’ll throw em in here.&lt;/p&gt;
+   <content type="html">&lt;h2 id=&quot;gobacktester&quot;&gt;GoBackTester&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; Dec 2022 - Present&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Description:&lt;/strong&gt; A backtester written in Golang that uses forex data in order to backtest given trading strategies on a portfolio of currencies. Data is sourced from truefx.com’s historical forex data and supported currencies are listed on their website.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Achievements:&lt;/strong&gt; Profited 3.4x in 2 days w/ an example mean reversion alpha on USD/EUR.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;https://github.com/5ury44/GoBackTester&quot;&gt;View Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;jos-alpha&quot;&gt;JOS Alpha&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; Dec 2022 - Present&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Description:&lt;/strong&gt; Developed an alpha using pairs trading for the SIF freshman alpha competition. Made our model more robust using web scraping with top articles per day and an RNN to analyze sentences and influence long and short decisions each day.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Affiliation:&lt;/strong&gt; Associated with Smith Investment Fund&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;https://github.com/5ury44/JOS-Alpha&quot;&gt;View Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;netflix-nlp-score-predictor&quot;&gt;Netflix NLP Score Predictor&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; Sep 2022 - Sep 2022&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Description:&lt;/strong&gt; Used sentiment analysis and language processing models to detect correlations in a Netflix dataset using Pandas, Numpy, and TensorFlow. This was a part of my SIF application.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;https://github.com/5ury44/Netflix-Analysis/blob/main/Untitled%20presentation.pdf&quot;&gt;View Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;portfolio-site&quot;&gt;Portfolio Site&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; May 2022 - May 2022&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Status:&lt;/strong&gt; Under Maintenance&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Description:&lt;/strong&gt; Simple static website created using Jekyll and HTML/CSS/JS.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Link:&lt;/strong&gt; &lt;a href=&quot;https://github.com/5ury44/5ury44.com&quot;&gt;View Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 </content>
  </entry>
