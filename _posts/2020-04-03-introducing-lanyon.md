@@ -11,7 +11,7 @@ img {
   <img src="public\IMG_9259.png" width="80%">
 </p>
 <p class="message">
-  ^ That's me in a train
+  ^ That's me on a train
 </p>
 ## <b>Life Story:</b>
 
