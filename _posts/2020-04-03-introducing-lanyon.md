@@ -20,9 +20,9 @@ Um, I'm a <a href="https://www.youtube.com/watch?v=zIwh0njInPk&ab_channel=Ball">
 
 ## <b>What I'm Doing Now:</b>
 * Pursuing a Bachelor's Degree in CS from the <b> University of Maryland &#128034;</b>
-* Interning at Fidelity Investments This Summer
+* Interning at Fidelity Investments This Summer ☀️
 * Creating Software for <b>Tensordock</b> as a Marketplace Product Manager
-* Working on multiple quant/decentralized finance <b>projects</b>
+* Working on multiple quant/computational finance <b>projects</b>
 
 ## <b>Some Goals:</b>
 * Learn C++ &#9989;
