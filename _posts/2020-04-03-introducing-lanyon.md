@@ -8,10 +8,10 @@ img {
 }
 </style>
 <p align="center">
-  <img src="public\IMG_9259.png" width="80%">
+  <img src="public\IMG_7360.jpg" width="80%">
 </p>
 <p class="message">
-  ^ That's me on a train
+  ^ That's me and Gracie Abrams
 </p>
 ## <b>Life Story:</b>
 
@@ -19,7 +19,7 @@ Um, I'm a <a href="https://www.youtube.com/watch?v=zIwh0njInPk&ab_channel=Ball">
 
 
 ## <b>What I'm Doing Now:</b>
-* Pursuing a Bachelor's Degree in CS from the <b> University of Maryland &#128034;</b>
+* Pursuing a Bachelor's Degree in CS from the <b> Georgia Institute of Technology &#128034;</b>
 * Interning at <b>Fidelity Investments</b> This Summer ☀️
 * Creating Software for <b>Tensordock</b> as a Marketplace Product Manager
 * Working on multiple quant/computational finance projects
