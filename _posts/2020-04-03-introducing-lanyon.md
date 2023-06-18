@@ -19,7 +19,7 @@ Um, I'm a <a href="https://www.youtube.com/watch?v=zIwh0njInPk&ab_channel=Ball">
 
 
 ## <b>What I'm Doing Now:</b>
-* Pursuing a Bachelor's Degree in CS from the <b> Georgia Institute of Technology 🐝;</b>
+* Pursuing a Bachelor's Degree in CS from the <b> Georgia Institute of Technology 🐝</b>
 * Interning at <b>Fidelity Investments</b> This Summer ☀️
 * Creating Software for <b>Tensordock</b> as a Marketplace Product Manager
 * Working on multiple quant/computational finance projects
